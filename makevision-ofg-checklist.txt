@@ -1,37 +1,47 @@
+= Příprava online focus group
 Vytvořit zadání k výzkumu
-Stanovit si cíle výzkumu a změny, které chceme na základě poznatků realizovat
-Sepsat oblasti zájmu, na které se v online focus group zaměříme
-Rozhodnout se o vhodných respondentech a jejich charakteristikách
-Promyslet, co bude výstupem z online focus group
-Připravit si načasování hlavních kroků v projektu
-Rozhodněte se, kde budete rekrutovat
-Připravte si vhodné odměny pro účastníky diskuze
+- Stanovit si cíle výzkumu a změny, které chceme na základě poznatků realizovat
+- Sepsat oblasti zájmu, na které se v online focus group zaměříme
+- Rozhodnout se o vhodných respondentech a jejich charakteristikách
+- Promyslet, co bude výstupem z online focus group
+- Připravit si načasování hlavních kroků v projektu
+- Rozhodněte se, kde budete rekrutovat
+- Připravte si vhodné odměny pro účastníky diskuze
 Sepsat scénář diskuze
-Rozhodnout se o vhodném pojmenování hlavního tématu diskuze
-Ke každému okruhu zájmu ze zadání promyslet vhodný způsob, jak se na něj zeptat
-Doplnit ke každému tématu, co u něj chcete zjistit
-Rozhodnout se o vhodném pořadí témat: obecná bývají na začátku, konkrétní později
-Zkontrolovat, zda se ptáte na otevřené otázky, zda nejsou otázky příliš složité, odborné nebo zavádějící
+- Rozhodnout se o vhodném pojmenování hlavního tématu diskuze
+- Ke každému okruhu zájmu ze zadání promyslet vhodný způsob, jak se na něj zeptat
+- Doplnit ke každému tématu, co u něj chcete zjistit
+- Rozhodnout se o vhodném pořadí témat: obecná bývají na začátku, konkrétní později
+- Zkontrolovat, zda se ptáte na otevřené otázky, zda nejsou otázky příliš složité, odborné nebo zavádějící
+
+= Rekrutace účastníků do diskuze
 Rozhodnout se, zda je potřeba realizovat screening
 Připravit podklady pro screening
-Na základě zadání k výzkumu připravit popis diskuze, který zaujme respondenty
-Popsat, jak diskuze probíhá a jaká máte očekávání od účastníků diskuze
-Vytvořit si seznam otázek do dotazníku (nezapomeňte na otevřenou otázku ve vztahu k tématu)
-Vytvořit screeningový dotazník
+- Na základě zadání k výzkumu připravit popis diskuze, který zaujme respondenty
+- Popsat, jak diskuze probíhá a jaká máte očekávání od účastníků diskuze
+- Vytvořit si seznam otázek do dotazníku (nezapomeňte na otevřenou otázku ve vztahu k tématu)
+- Vytvořit screeningový dotazník
 Spustit screening
 Vybrat vhodné respondenty do diskuze (a několik náhradníků)
+
+= Realizace online focus group
 Založit diskuzi v diskuzním prostředí a vložit první témata
 Zkontrolovat, zda je diskuze připravena ke spuštění
+- Máme vybraný odpovídající počet respondentů
+- Úvodní téma je zveřejněné
+- Máme připravené podmínky diskuze
 Spustit diskuzi a pozvat respondenty do diskuze
 Zaurgovat nezaregistrované respondenty a pozvat případné náhradníky
 Moderovat diskuzi
 Pochválit respondenty a vybídnout k přidání vlastního tématu
 Připomenout konec výzkumu a neaktivním uživatelům, že musí zodpovědět všechny otázky
+
+= Ukončení a vyhodnocení diskuze
 Uzavřít diskuzi
 Vyhodnotit odměny rozeslat je respondentům
 Vyhodnotit diskuzi
-Vybrat nebo oštítkovat zajímavé příspěvky
-Pročíst roztříděné příspěvky a nalézt zajímavé poznatky a citace
-Zpracovat report s komentáře (proč je dané zjištění zajímavé a k čemu bude sloužit)
+- Vybrat nebo oštítkovat zajímavé příspěvky
+- Pročíst roztříděné příspěvky a nalézt zajímavé poznatky a citace
+- Zpracovat report s komentáře (proč je dané zjištění zajímavé a k čemu bude sloužit)
 Zhodnotit, co by šlo v příští diskuzi udělat lépe
 Naplánovat úkoly vyplývající ze zadání
