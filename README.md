@@ -1,4 +1,4 @@
-# Checklist k relalizaci online focus group
+# Checklist k realizaci online focus group
 Toto je první verze checklistu, která vám pomůže realizovat výzkum metodou online focus group.
 
 Více o metodě si můžete přečíst na [webu výzkumné agentury Makevisionu](https://makevision.cz/online-focus-group/).
